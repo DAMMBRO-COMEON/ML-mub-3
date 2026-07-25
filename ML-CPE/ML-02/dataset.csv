@@ -1,0 +1,16 @@
+ID,Name,Gender,Age,Salary,Department,Status
+1,John,M,25,25000,IT,Pass
+2,Sarah,F,28,32000,HR,Pass
+3,Michael,M,35,45000,Finance,Pass
+4,Emma,F,22,22000,IT,Fail
+5,David,M,,38000,Marketing,Pass
+6,Olivia,F,27,,HR,Pass
+7,James,M,31,41000,Finance,Pass
+8,Sophia,F,24,27000,Marketing,Fail
+9,Daniel,M,29,35000,IT,Pass
+10,Ava,F,26,30000,HR,Pass
+11,John,M,25,25000,IT,Pass
+12,William,male,33,47000,Finance,Pass
+13,Mia,female,21,21000,Marketing,Fail
+14,Ethan,M,40,55000,IT,Pass
+15,Charlotte,F,23,24000,HR,Fail
